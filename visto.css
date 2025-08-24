@@ -1,0 +1,12 @@
+.tarjeta > h3 {
+  font.size: 1.5em;
+}
+
+.tarjeta > p {
+  color: gray;
+}
+
+.tarjeta > button {
+  background-color: blue;
+  color: white;
+}
